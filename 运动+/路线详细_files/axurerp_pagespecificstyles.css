@@ -1,0 +1,348 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../路线详细_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:200px;
+    top:31px;
+    width:574px;
+    height:1127px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:574px;
+    height:1127px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:556px;
+    width:570px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../路线详细_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:250px;
+    top:1035px;
+    width:480px;
+    height:64px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:64px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../路线详细_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:250px;
+    top:179px;
+    width:480px;
+    height:32px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:32px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../路线详细_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:249px;
+    top:211px;
+    width:481px;
+    height:50px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:487px;
+    height:56px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:477px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../路线详细_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:250px;
+    top:365px;
+    width:1px;
+    height:131px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1px;
+    height:131px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:58px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../路线详细_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:250px;
+    top:496px;
+    width:1px;
+    height:723px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1px;
+    height:723px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:354px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../路线详细_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:250px;
+    top:261px;
+    width:480px;
+    height:105px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:105px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:44px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../路线详细_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:250px;
+    top:366px;
+    width:480px;
+    height:547px;
+}
+
+#u14_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:547px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:266px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:610px;
+    top:224px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u17_normal {
+    background-image: url('../路线详细_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:268px;
+    top:228px;
+    width:25px;
+    height:21px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:21px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

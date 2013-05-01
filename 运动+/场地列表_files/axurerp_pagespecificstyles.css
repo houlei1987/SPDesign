@@ -1,0 +1,652 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../场地列表_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:200px;
+    top:31px;
+    width:574px;
+    height:1127px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:574px;
+    height:1127px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:556px;
+    width:570px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../场地列表_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:250px;
+    top:1035px;
+    width:480px;
+    height:64px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:64px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../场地列表_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:250px;
+    top:179px;
+    width:480px;
+    height:32px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:480px;
+    height:32px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:476px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:262px;
+    top:290px;
+    width:145px;
+    height:108px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:684px;
+    top:588px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../场地列表_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:249px;
+    top:211px;
+    width:481px;
+    height:50px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:487px;
+    height:56px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:477px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:419px;
+    top:290px;
+    width:145px;
+    height:108px;
+}
+
+#u11_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:577px;
+    top:290px;
+    width:145px;
+    height:108px;
+}
+
+#u13_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:262px;
+    top:421px;
+    width:145px;
+    height:108px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:419px;
+    top:421px;
+    width:145px;
+    height:108px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:577px;
+    top:421px;
+    width:145px;
+    height:108px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:262px;
+    top:551px;
+    width:145px;
+    height:108px;
+}
+
+#u21_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:419px;
+    top:551px;
+    width:145px;
+    height:108px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:577px;
+    top:551px;
+    width:145px;
+    height:108px;
+}
+
+#u25_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:262px;
+    top:682px;
+    width:145px;
+    height:108px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:419px;
+    top:682px;
+    width:145px;
+    height:108px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../场地列表_files/u6_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:577px;
+    top:682px;
+    width:145px;
+    height:108px;
+}
+
+#u31_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:145px;
+    height:108px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:46px;
+    width:141px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:615px;
+    top:224px;
+    width:93px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 11px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u34 {
+    position:absolute;
+    left:438px;
+    top:809px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u35_normal {
+    background-image: url('../场地列表_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:268px;
+    top:228px;
+    width:25px;
+    height:21px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:21px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
